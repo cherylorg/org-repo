@@ -1,4 +1,4 @@
 FROM busybox:latest
 
 RUN ls
-RUN echo "Test 1"
+RUN echo "Test 2"
