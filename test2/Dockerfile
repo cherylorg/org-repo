@@ -1,5 +1,4 @@
 FROM busybox:latest
 
 RUN pwd
-RUN ll
-
+RUN echo "test again"
